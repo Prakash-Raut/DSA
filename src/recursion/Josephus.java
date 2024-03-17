@@ -11,8 +11,12 @@ public class Josephus {
      */
 
     public static int josephus(int n, int k) {
+        return josephusHelper(n, k) + 1;
+    }
+
+    private static int josephusHelper(int n, int k) {
         if (n == 1) return 0;
-        return (josephus(n - 1, k) + k) % n;
+        return (josephusHelper(n - 1, k) + k) % n;
     }
 
     public static void main(String[] args) {

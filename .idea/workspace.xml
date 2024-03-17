@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7451f3b1-40b7-44ab-aaca-4cc9460763a5" name="Changes" comment="Added Palindrome.java">
-      <change afterPath="$PROJECT_DIR$/src/recursion/Subset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7451f3b1-40b7-44ab-aaca-4cc9460763a5" name="Changes" comment="Added Subset.java">
+      <change beforePath="$PROJECT_DIR$/src/recursion/Josephus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Josephus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <updated>1710523391451</updated>
       <workItem from="1710523392504" duration="234000" />
       <workItem from="1710523637386" duration="4311000" />
-      <workItem from="1710653654077" duration="3531000" />
+      <workItem from="1710653654077" duration="3879000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -126,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710654579652</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Subset.java">
+      <option name="closed" value="true" />
+      <created>1710658054834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710658054834</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +146,7 @@
     <MESSAGE value="Added Josephus.java" />
     <MESSAGE value="Added CountOccurrence.java" />
     <MESSAGE value="Added Palindrome.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Palindrome.java" />
+    <MESSAGE value="Added Subset.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Subset.java" />
   </component>
 </project>
