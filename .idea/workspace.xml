@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7451f3b1-40b7-44ab-aaca-4cc9460763a5" name="Changes" comment="Added PowerFunction.java">
-      <change afterPath="$PROJECT_DIR$/src/recursion/MatrixPath.java" afterDir="false" />
+    <list default="true" id="7451f3b1-40b7-44ab-aaca-4cc9460763a5" name="Changes" comment="Added MatrixPath.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/PowerFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/PowerFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <workItem from="1710523392504" duration="234000" />
       <workItem from="1710523637386" duration="4311000" />
       <workItem from="1710653654077" duration="5320000" />
-      <workItem from="1710777065899" duration="3198000" />
+      <workItem from="1710777065899" duration="5201000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710779371029</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added MatrixPath.java">
+      <option name="closed" value="true" />
+      <created>1710780544459</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710780544459</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +197,7 @@
     <MESSAGE value="Added Factorial.java" />
     <MESSAGE value="Added ArraySortedCheck.java" />
     <MESSAGE value="Added PowerFunction.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added PowerFunction.java" />
+    <MESSAGE value="Added MatrixPath.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added MatrixPath.java" />
   </component>
 </project>
